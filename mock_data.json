@@ -1,0 +1,1017 @@
+{
+    "Coffee" :[
+        {
+            "name": "Cappuccino ",
+            "desc": "(Espresso shot with steamed milk)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Latte ",
+            "desc": "(Espresso with steamed milk and milk foam)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 150
+        },
+        {
+            "name": "Flat White ",
+            "desc": "(Double Espresso with lightly frosted milk)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        },
+        {
+            "name": "Cafe Mocha ",
+            "desc": "(Espresso with chocolate and milk foam)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Espresso ",
+            "desc": "(single shot)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 70
+        },
+        {
+            "name": "Doppio ",
+            "desc": "(Double espresso shot)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Lungo ",
+            "desc": "(Short black with more water)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Americano ",
+            "desc": "(Espresso with hot water)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Long Black ",
+            "desc": "(Espresso poured over hot water)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Affogato ",
+            "desc": "(Espresso poured on vanilla ice cream)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Espresso Con Panna ",
+            "desc": "(Shot of Espresso topped with whipped cream )",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Espresso Machiato ",
+            "desc": "(Espresso with Dash of milk foam)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Vietnamese Coffee ",
+            "desc": "(Condensed milk with espresso Shot)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        }
+    ],
+    "Coffee- Add ons" : [
+        {
+            "name": "Caramel ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 50
+        },
+        {
+            "name": "Hazelnut ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 50
+        },
+        {
+            "name": "Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 50
+        },
+        {
+            "name": "Vanilla ice cream ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 50
+        },
+        {
+            "name": "Whipped Cream ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 50
+        },
+        {
+            "name": "Espresso Shot ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 70
+        }
+    ],
+    "Iced Coffee" :[
+        {
+            "name": "Caffe' Frappe ",
+            "desc": "(Classic Cold Coffee)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Iced Americano ",
+            "desc": "(Espresso shot on the rocks)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Lotte iced Coffee ",
+            "desc": "(Espresso shot with Ice and cold milk)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Vanilla iced Coffee ",
+            "desc": "(creamy blend of espresso, vanilla, ice and milk)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Caramel iced coffee ",
+            "desc": "(Creamy blend of espresso, caramel, ice and milk)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Hazelnut iced coffee ",
+            "desc": "(Creamy blend of espresso, hazelnut, ice and milk)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Iced Mocha ",
+            "desc": "(blend of espresso chocolate syrup, ice and milk)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Latte Macchiato ",
+            "desc": "(Milk marked with a shot of espresso)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Vietnamese iced coffee ",
+            "desc": "(Condensed milk ice espresso shot)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        }
+    ],
+    "HOT TEA" :[
+      {
+            "name": "Darjeeling Tea",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 60
+      },
+      {
+            "name": "Masala Tea",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 60
+      },
+      {
+            "name": "Green Tea",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 50
+      },
+      {
+            "name": "Milk Tea",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 40
+      },
+      {
+            "name": "Ginger Tea",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 40
+      },
+      {
+            "name": "Ginger Milk Tea",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 50
+      },
+      {
+            "name": "Ginger Lemon Honey Tea",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 70
+      }
+      
+      ],
+    "HOT CHOCOLATE" : [
+        {
+            "name": "Classic Hot Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Hazelnut Hot Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Caramel Hot Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Wiped Hot Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Vanilla Hot Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        }
+    ],
+    "ICED TEA" : [
+        {
+            "name": "Lemon ice tea ",
+            "desc": "(Infusion of tea and fresh lemon)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Peach ice tea ",
+            "desc": "(Infusion o tea and flavored peach)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Blood Orange ice tea ",
+            "desc": "(Apple bits, hibiscus, orange peal, rosehips, lemon peel, safflower blossoms and natural flavours)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Golden pear ice tea ",
+            "desc": "(Dried apple, pear, rose blossom, vanilla pieces & natural flavours)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "The Salberry ice tea ",
+            "desc": "(Hibiscus, raisins, elderberries, natural flavours raspberries, strawberries)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Chocomint Rooibos ice tea ",
+            "desc": "(Chocolate & Mint Caffeine free South African tea)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        },
+        {
+            "name": "Vanilla Rooibos ice tea ",
+            "desc": "(Vanilla bits Caffeine free South African tea)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Lemon Rooibos ice tea ",
+            "desc": "(Luxury rooibos, lemongrass Caffeine free South African tea)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Ginger Rooibos ice tea ",
+            "desc": "(Ginger Caffeine free South African tea)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        }
+    ],
+    "CLASSIC SHAKES": [
+        {
+            "name": "Banana ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Mango ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Strawberry ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 130
+        },
+        {
+            "name": "Guava ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Litchi ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Pineapple ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Butterscotch ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Black Current ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Blueberry ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        }
+    ],
+    "CHOCOLATE SHAKES": [
+        {
+            "name": "Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Oreo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name":  "Kit Kat",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        },
+        {
+            "name": "5 Star ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Nutella ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Dark Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Caramel Chcolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Hazelnut Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        }
+    ],
+    "FRESH JUICE/MOCKTAIL/MOJITO": [
+        {
+            "name": "Mosambi ",
+            "desc": "(fresh/seasonal)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Pomegranate ",
+            "desc": "(fresh/seasonal)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Orange ",
+            "desc": "(fresh/seasonal)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Watermelon ",
+            "desc": "(fresh/seasonal)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Green Sea ",
+            "desc": "(Green aple,kiwi,blue curacao,lemon,sprite)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Cucumber Cooler ",
+            "desc": "(Cucumber,lemon,sprite)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 150
+        },
+        {
+            "name": "Deep Blue Sea ",
+            "desc": "(Blue Curacco, lemon, mint & soda)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Strawberry Cooler ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 150
+        },
+        {
+            "name": "Passion Fruit Mojito",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Mango Mojito ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Watermelon Mojito",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Lyches Mojito ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Green apple Mojito ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Virgin Mojito ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name":  "Fresh lime soda/water",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Lassi Sweet/salted ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Masala Coke ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 80
+        },
+        {
+            "name": "Package Water ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": "MRP"
+        }
+    ],
+    "BURGER AND SANDWICHES": [
+        {
+            "name": "Veg Grilled Sandwiches ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Veg Cheese Grilled Sandwiches ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Cheese Grilled Sandwich ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        },
+        {
+            "name": "Corn & Cheese Sandwiches ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Paneer Grilled Sandwiches ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Jalapeno Cheese Grilled ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 220
+        },
+        {
+            "name": "Mumbai Sandwich ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Veg Burger ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Veg Cheese Burger ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 220
+        }
+    ],
+    "FRIES": [
+        {
+            "name": "Cheese Fries ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Peri Peri Fries ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Cheese Peri Peri  Fries ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 190
+        },
+        {
+            "name": "Classic Fries ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Chilli Potato ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Honey Chilli Potato ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        }
+
+    ],
+    "PASTA/GARLIC BREAD": [
+        {
+            "name": "Penne/Fusilli/Spaghetti ",
+            "desc": "Alfredo(White) served with garlic bread",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 280
+        },
+        {
+            "name": "Penne/Fusilli/Spaghetti ",
+            "desc": "Arrabbiata(Red) served with garlic bread",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 280
+        },
+        {
+            "name": "Penne/Fusilli/Spaghetti ",
+            "desc": "Mixed Sauce(White+Red) served with garlic bread",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 300
+        },
+        {
+            "name": "Penne/Fusilli/Spaghetti ",
+            "desc": "Peri Peri Arrabbiata (Spicy Red) served with garlic bread",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 320
+        },
+        {
+            "name": "Penne/Fusilli/Spaghetti ",
+            "desc": "Aglio olio(Dry, Olive Oil)served with garlic bread",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 320
+        }
+        ],
+  "Garlic Breads": [
+        {
+            "name": "Garlic Bread ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Cheese Garlic Bread ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Corn Cheese Garlic Bread",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 190
+        }
+
+    ],
+    "AROUND THE WORLD": [
+        {
+            "name": "Bombay Vada Pav ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Bombay Cheese Vada Pav",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        },
+        {
+            "name": "Korean Corn Stick",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 150
+        },
+        {
+            "name": "Mexican Loaded Nachos ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Delhi Soya Chaap with Dinner Roll ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 240
+        }
+    ],
+    "PARATHA": [
+        {
+            "name": "Aloo Paratha ",
+            "desc": "(Served with Curd, Pickele & Chutney)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Onion Paratha",
+            "desc": "(Served with Curd, Pickele & Chutney)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 130
+        },
+        {
+            "name": "Onion Cheese Paratha ",
+            "desc": "(Served with Curd, Pickele & Chutney)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        },
+        {
+            "name": "Paneer Paratha",
+            "desc": "(Served with Curd, Pickele & Chutney)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Cheese Paratha ",
+            "desc": "(Served with Curd, Pickele & Chutney)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 150
+        },
+        {
+            "name": "Corn Cheese Paratha ",
+            "desc": "(Served with Curd, Pickele & Chutney)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        }
+    ],
+    "Soup": [
+        {
+            "name": "Veg clear soup ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Hot & Sour Soup ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Sweet Corn Soup ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        },
+        {
+            "name": "Tomato Soup ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        }
+    ],
+    "MOMO": [
+        {
+            "name": "Mix Veg Steam Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 80
+        },
+        {
+            "name": "Mix Veg Fried Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Mix Veg Chilly Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Paneer Steamed Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Paneer Fried Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Paneer Chilli Momo",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        },
+        {
+            "name": "Cheese Steamed Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Cheese Fried Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Darjeeling Steamed Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 80
+        },
+        {
+            "name": "Darjeeling Fried Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 100
+        },
+        {
+            "name": "Darjeeling Chilly Momo ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 140
+        },
+        {
+            "name": "Afgani Momo",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 180
+        },
+        {
+            "name": "Crispy Fried Momo  ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        },
+        {
+            "name": "Peri Peri Momo  ",
+            "desc": "(Signature)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 160
+        }
+        
+
+    ],
+    "DESERT": [
+        {
+            "name": "Fried Ice Cream ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 250
+        },
+        {
+            "name": "Vanilla Ice Cream with Chocolate ",
+            "desc": "",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 120
+        },
+        {
+            "name": "Affogato ",
+            "desc": "(Espresso poured on vanilla ice cream)",
+            "isVeg": true,
+            "spicy": 0,
+            "price": 170
+        }
+        
+    ]
+}

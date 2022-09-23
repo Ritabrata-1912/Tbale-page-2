@@ -1,0 +1,171 @@
+*{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+.main .head{
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  margin-left: 1em;
+  margin-top: 0.9em;
+}
+.main .head1{
+  font-size: 30px;
+  font-weight: 900;
+  margin-bottom: 30px;
+  margin-left: 1em;
+}
+.main .head3{
+  display:flex;
+  justify-content: space-evenly;
+  /* background-color: yellow; */
+}
+.main .head3 .btn1{
+  width:130px;
+  height:40px;
+  margin-right: 10px;
+  border-radius: 10px;
+  background-color: white;
+  border:2px solid red;
+  font-size: 20px;
+  color: red;
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  margin-top: 30px;
+}
+.main .head3 .s1{
+  border: 2px solid red;
+  width:20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.main table{
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 14px;
+  width:350px;
+  /* height: 200px; */
+  border-collapse: collapse;
+  /* border:none; */
+  outline: none;
+}
+.main table thead tr{
+  background-color:green;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+.main table thead tr th,.main table tbody tr td{
+  padding:12px 15px;
+  outline: none;
+}
+.main table tbody tr{
+  border-bottom: 1px solid #dddddd;
+}
+.main table tbody tr:nth-of-type(even){
+  background-color: #f3f3f3;
+}
+
+/* .main .add .btn3{
+  background-color: blue;
+  color: #dddddd;
+  width:80px;
+  height:40px;
+  border-radius: 4px;
+  padding:10px; */
+.main .cost{
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: #f4f4f4;
+  width: 150px;
+  height:40px;
+  margin-left: 20px;
+  padding-top: 7px;
+}
+.varbox{
+  max-height: 150px;
+  border: 2px solid black;
+  overflow: scroll;
+  padding:3px 0 0 3px;
+}
+.drop{
+  /* border: 2px solid black; */
+  box-shadow: 3px 3px #888888;
+  max-height: 150px;
+  overflow: scroll;
+  width:170px;
+}
+.varsrch{
+  display: flex;
+  align-items: center;
+}
+.drop_row{
+  padding:3px 0 0 3px;
+  max-width: 3px 0 0 0;
+}
+.itmsrch1{
+  display: flex;
+  justify-content: space-evenly;
+  align-items:flex-end;
+  width: 200px;
+}
+.itmsrch1 button{
+  background-color: blue;
+  color: #f3f3f3;
+  border-radius: 5px;
+  width:70px;
+  height:40px;
+  padding: 2px;
+}
+.itmsrch1 input{
+  width:100px;
+  height: 30px;
+  border: 1px solid black;
+}
+.var{
+  border-bottom: 1px solid black;
+}
+.varsrch button{
+  background-color: blue;
+  border-radius: 5px;
+  color: #dddddd;
+  width:50px;
+  height:40px;
+  margin-top:10px;
+}
+.head4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.edit{
+  background-color: blue;
+  color: #ffffff;
+  padding:4px;
+  margin-right: 4px;
+}
+.del{
+  background-color: blue;
+  color: #ffffff;
+  padding: 2px;
+}
+.head4{
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+.save{
+  background-color: blue;
+  color: #ffffff;
+  padding:2px;
+  margin-right: 4px;
+}
+.cncl{
+  background-color: blue;
+  color:#ffffff;
+  padding: 2px;
+}
